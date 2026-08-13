@@ -2,7 +2,6 @@
 
 > **Run powerful AI coding assistants 100% locally — no cloud, no API keys, no data leaves your machine.**
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20macOS%20%7C%20Linux-brightgreen)](#)
 [![Ollama](https://img.shields.io/badge/Ollama-v0.32.x-blueviolet)](#)
 [![llama.cpp](https://img.shields.io/badge/llama.cpp-latest-orange)](#)
@@ -110,14 +109,6 @@ These guides are provided as **Jupyter Notebooks** (`.ipynb`) with executable co
 ## 🤝 Contributing
 
 Contributions are welcome! If you've set up a local LLM workflow on different hardware or with different tools, feel free to open a PR or issue.
-
----
-
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
 
 <p align="center">
   <b>⭐ If this guide helped you, consider giving it a star!</b>
